@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Bella'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = '上下文模块，被业务模块所依赖'
   
   s.description      = <<-DESC
